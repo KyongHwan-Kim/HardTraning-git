@@ -1,9 +1,7 @@
-from bitarray import test
+branch = "master"
 
+if branch == "master":
+    print("this branch is master")
 
-test_str = "hello world"
-
-print(test_str)
-if type(test_str) == "str":
-    print("str is true")
-
+else:
+    print("this branch is master")
