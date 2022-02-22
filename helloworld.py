@@ -1,7 +1,7 @@
-branch = "master"
+branch = "training"
 
 if branch == "master":
     print("this branch is master")
 
 else:
-    print("this branch is master")
+    print("this branch is training")
