@@ -1,4 +1,4 @@
-branch = "training"
+branch = "t"
 
 if branch == "master":
     print("this branch is master")
